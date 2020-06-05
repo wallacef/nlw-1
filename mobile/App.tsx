@@ -1,6 +1,6 @@
 import React from 'react';
 import { Font, AppLoading } from 'expo';
-import { StatusBar, View } from 'react-native';
+import { StatusBar } from 'react-native';
 import { Roboto_400Regular, Roboto_500Medium, useFonts } from '@expo-google-fonts/roboto';
 import { Ubuntu_700Bold } from '@expo-google-fonts/ubuntu';
 import Routes from './src/routes';
